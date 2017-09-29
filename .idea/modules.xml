@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ORM-Test.iml" filepath="$PROJECT_DIR$/ORM-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ORM_Test.iml" filepath="$PROJECT_DIR$/ORM_Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/notification.iml" filepath="$PROJECT_DIR$/notification/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
       <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
     </modules>
   </component>

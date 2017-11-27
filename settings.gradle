@@ -1,2 +1,3 @@
 include ':app', ':test2', ':notification'
 include ':helloAndroid'
+include ':amm_sdk_sample'

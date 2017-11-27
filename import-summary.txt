@@ -7,28 +7,19 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
-* .gitignore
-* .idea\
-* .idea\HelloAndroid.iml
-* .idea\misc.xml
-* .idea\modules.xml
-* .idea\workspace.xml
-* README.txt
-* ormlite-android-4.43-javadoc.jar
-* ormlite-android-4.43-sources.jar
-* ormlite-core-4.43-javadoc.jar
-* ormlite-core-4.43-sources.jar
+* debug.keystore
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => helloAndroid\src\main\AndroidManifest.xml
-* libs\ormlite-android-4.43.jar => helloAndroid\libs\ormlite-android-4.43.jar
-* libs\ormlite-core-4.43.jar => helloAndroid\libs\ormlite-core-4.43.jar
-* res\ => helloAndroid\src\main\res\
-* src\ => helloAndroid\src\main\java\
+* AndroidManifest.xml => amm_sdk_sample\src\main\AndroidManifest.xml
+* assets\ => amm_sdk_sample\src\main\assets
+* libs\libammsdk.jar => amm_sdk_sample\libs\libammsdk.jar
+* libs\wechat-sdk-android-with-mta-1.0.2.jar => amm_sdk_sample\libs\wechat-sdk-android-with-mta-1.0.2.jar
+* res\ => amm_sdk_sample\src\main\res\
+* src\ => amm_sdk_sample\src\main\java\
 
 Next Steps:
 -----------
